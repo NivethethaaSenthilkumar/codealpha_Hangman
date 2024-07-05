@@ -12,9 +12,6 @@ Visual Representation: Displays the progress of the game visually with placehold
 End Game Conditions: Clearly indicates whether the player has won or lost and reveals the correct word if the player loses.
 
 # 🛠️ Technologies Used
-Python: 
-The entire game logic and functionality were implemented using Python.
-Loops and Conditional Statements:
-Used extensively to handle the game flow and logic.
-Lists and String Manipulation: 
-For storing the word, guessed letters, and displaying the game progress.
+1.Python: The entire game logic and functionality were implemented using Python.
+2.Loops and Conditional Statements: Used extensively to handle the game flow and logic.
+3.Lists and String Manipulation: For storing the word, guessed letters, and displaying the game progress.
