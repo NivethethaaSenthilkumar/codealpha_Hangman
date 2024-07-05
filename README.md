@@ -7,8 +7,11 @@ Hangman is a word-guessing game where the player tries to guess a word by sugges
 
 # 💡 Features
 Random Word Selection: The game selects a random word from a predefined list each time it starts.
+
 User Input Validation: Ensures that players enter valid characters and handles invalid inputs gracefully.
+
 Visual Representation: Displays the progress of the game visually with placeholders for unguessed letters and a visual representation of the hangman.
+
 End Game Conditions: Clearly indicates whether the player has won or lost and reveals the correct word if the player loses.
 
 # 🛠️ Technologies Used
